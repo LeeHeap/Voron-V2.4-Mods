@@ -12,4 +12,3 @@ A recreated version of [richardjm's LED 15.5mm quarter round mounts](https://git
 
 ## Skirt buttons
 A microswitch encasing button, useful for klipper macros, lighting control etc. Easy to print and install, snaps together.
-!(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
