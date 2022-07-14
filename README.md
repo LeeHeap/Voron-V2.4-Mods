@@ -5,6 +5,8 @@ This repo contains mods I've created for the Voron 2.4. More will be added.
 Klipper config, scripts and macros etc are in my klipper config repo: https://github.com/LeeHeap/Klipper-config
 
 ## LED corners
+![LED Corners](https://github.com/LeeHeap/Voron-V2.4-Mods/raw/main/LED%20Corners/Images/banner.png "LED Corners")
+
 A recreated version of [richardjm's LED 15.5mm quarter round mounts](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/richardjm/led-mounts) with some improvements:
 * Optional colour accented voron logo insert. This can also be printed in transparent filament and have an LED mounted behind it to make a glowing logo
 * Thicker stronger shell 
@@ -13,4 +15,6 @@ A recreated version of [richardjm's LED 15.5mm quarter round mounts](https://git
 * Compatible with V2.4 R2 idlers. The previous design rubbed on my r2 idler wheels
 
 ## Skirt buttons
+![Voron 2.4 skirt buttons](https://github.com/LeeHeap/Voron-V2.4-Mods/raw/main/Skirt%20Buttons/images/Banner.png "Skirt buttons")
+
 A microswitch encasing button, useful for klipper macros, lighting control etc. Easy to print and install, snaps together.
