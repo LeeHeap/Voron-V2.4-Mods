@@ -1,20 +1,45 @@
 # Voron V2.4 Mods
- 
-This repo contains mods I've created for the Voron 2.4. More will be added.
 
-Klipper config, scripts and macros etc are in my klipper config repo: https://github.com/LeeHeap/Klipper-config
+A collection of mods I've designed for the Voron 2.4. More will be added over time.
 
-## LED corners
-![LED Corners](https://github.com/LeeHeap/Voron-V2.4-Mods/raw/main/LED%20Corners/Images/banner.png "LED Corners")
+Klipper config, scripts and macros are in my [Klipper config repo](https://github.com/LeeHeap/Klipper-config).
 
-A recreated version of [richardjm's LED 15.5mm quarter round mounts](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/richardjm/led-mounts) with some improvements:
-* Optional colour accented voron logo insert. This can also be printed in transparent filament and have an LED mounted behind it to make a glowing logo
-* Thicker stronger shell 
-* Recessed screw channel so the screw is kept out of sight
-* Space to pass through a cable from the top extrusions to the vertical extrusion. Great for top-mounted webcams etc.
-* Compatible with V2.4 R2 idlers. The previous design rubbed on my r2 idler wheels
+---
 
-## Skirt buttons
-![Voron 2.4 skirt buttons](https://github.com/LeeHeap/Voron-V2.4-Mods/raw/main/Skirt%20Buttons/images/Banner.png "Skirt buttons")
+## LED Corners
 
-A microswitch encasing button, useful for klipper macros, lighting control etc. Easy to print and install, snaps together.
+![LED Corners](LED%20Corners/Images/banner.png)
+
+A redesigned version of [richardjm's LED 15.5mm quarter round mounts](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/richardjm/led-mounts) with several improvements:
+
+* Optional colour accented Voron logo insert — can also be printed in transparent filament with an LED behind it for a glowing logo
+* Thicker, stronger shell
+* Recessed screw channel to keep the screw out of sight
+* Cable passthrough from the top extrusion to the vertical extrusion, great for top-mounted webcams etc.
+* Compatible with V2.4 R2 idlers (the previous design rubbed on R2 idler wheels)
+
+![Installed](LED%20Corners/Images/Installed.png)
+
+---
+
+## Skirt Buttons
+
+![Skirt Buttons](Skirt%20Buttons/images/Banner.png)
+
+A microswitch button enclosure that mounts in the Voron skirt. Useful for Klipper macros, lighting control, and more. Easy to print and install — snaps together with no extra hardware.
+
+![Exploded View](Skirt%20Buttons/images/exploded_view.png)
+
+---
+
+## Exhaust Cover
+
+![Exhaust Cover](Exhaust%20Cover/Images/Exhaust%20Housing.png)
+
+A blanking plate replacement for the stock exhaust housing. Includes a threaded insert for a bowden tube fitting or similar passthrough. Clean, minimal look for builds that don't use the stock exhaust filter.
+
+**STLs:**
+* `Blanking Plate.stl` — the main cover plate
+* `Threaded insert.stl` — press-fit threaded insert
+
+![Exhaust Cover Rear](Exhaust%20Cover/Images/Exhaust%20Housing%20Rear.png)
